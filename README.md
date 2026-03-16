@@ -1,6 +1,6 @@
 # Core Ecom Project
 
-<a href="https://core-ecom-project.vercel.app/" target="_blank">Live Demo</a>
+## Live Demo - https://core-ecom-project.vercel.app/
 
 <img width="1898" height="860" alt="core-ecom" src="https://github.com/user-attachments/assets/39bcd462-df79-4301-9de5-b69ccd9a58b6" />
 
