@@ -1,5 +1,10 @@
 # Core Ecom Project
 
+### live demo - https://core-ecom-project.vercel.app/
+
+<img width="1898" height="860" alt="core-ecom" src="https://github.com/user-attachments/assets/39bcd462-df79-4301-9de5-b69ccd9a58b6" />
+
+
 Одностраничный интернет-магазин на React + TypeScript + Vite с каталогом товаров, фильтрацией по категориям и корзиной.
 
 ## Стек
